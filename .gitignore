@@ -1,0 +1,6 @@
+# Python and Jupyter:
+.ipynb_checkpoints
+__pycache__
+
+# Operating System temp files:
+.DS_Store
