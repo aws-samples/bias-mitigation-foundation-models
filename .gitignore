@@ -1,3 +1,6 @@
+# Generated data files:
+data/
+
 # Python and Jupyter:
 .ipynb_checkpoints
 __pycache__
